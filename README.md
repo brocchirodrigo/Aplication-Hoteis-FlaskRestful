@@ -1,4 +1,4 @@
-# Aplicaão em Python utilizando Flask
+# Aplicação em Python utilizando Flask
 
 Resultado do curso de Flask RESTful Python.
 
